@@ -28,15 +28,19 @@ print (x)       # What will the print function results be for x?
 def ans(x):     # Definition "ans" is the name of the function
     y = x + 2   # y equals x plus 2
     return y    # The return command outputs the result of y
-ans(4)
+ans(4)          # Definition ans will use the variable 4; What will the result display?
 ```
 
 # if statement
-
+'''
+x = 5           # x is equal to 5
+if x + 1 == 6;  # if x + 1 == 6 This will evaluate whether the statement is true or not
+    print(x)    # What will the print function result display?
+'''
 
 # loops
-
-
-
-
-#variable answer: 6
+```
+for i in range(1,50):   # for i in range between 1 through 50
+    if i % 2 == 0;      # Evaluate and extract results of i
+        print(i)        # What will the print function result display?
+```
