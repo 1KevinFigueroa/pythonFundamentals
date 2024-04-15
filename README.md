@@ -32,11 +32,11 @@ ans(4)          # Definition ans will use the variable 4; What will the result d
 ```
 
 # if statement
-'''
+```
 x = 5           # x is equal to 5
 if x + 1 == 6;  # if x + 1 == 6 This will evaluate whether the statement is true or not
     print(x)    # What will the print function result display?
-'''
+```
 
 # loops
 ```
